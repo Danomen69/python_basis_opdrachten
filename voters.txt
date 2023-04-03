@@ -1,0 +1,5 @@
+Alice:0
+Bob:0
+Charlie:0
+David:3
+Emily:0
